@@ -1,6 +1,6 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>My Home</ion-title>
+    <ion-title>Myminmi</ion-title>
   </ion-navbar>
 </ion-header>
  
