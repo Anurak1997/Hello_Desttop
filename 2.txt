@@ -11,9 +11,7 @@
 //...
  
   entryComponents: [
-    MyApp,
-    AboutPage,
-    ContactPage,
+    MyApp,jijloihjo,
     HomePage,
     TabsPage,
     InfoPage
